@@ -1,0 +1,32 @@
+url for spring boot -->start.spring.io
+
+
+SANDIPAN_NIIT JADAVPUR _IT03
+
+mailto:pankaj.saini@niit.com
+
+Readers
+
+readerid  number(30)
+fname     number(15)
+lname  
+conno   unique      
+city    check(
+dob
+
+books
+
+bookid number(3)
+author
+title
+
+pub
+price
+
+trn
+
+trnid
+trndate
+trnqty
+bookid
+readerid
